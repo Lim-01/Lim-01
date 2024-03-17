@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Yeoeun Lim 👋
 
 <!--
 **Lim-01/Lim-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
